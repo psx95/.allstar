@@ -2,3 +2,4 @@ optConfig:
   optInRepos:
   - intro-spring-boot
   - opentelemetry-collector-builder-sample
+  - exercises-app-material-ui
