@@ -1,6 +1,4 @@
 optConfig:
-  optOutStrategy: false
-  disableRepoOverride: true
   optInRepos:
-    - intro-spring-boot
-    - opentelemetry-collector-builder-sample
+  - intro-spring-boot
+  - opentelemetry-collector-builder-sample
